@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Hello, im phosd and i'll be sharing cool challenges from ctfs!
+  <img align="right" alt="Coding" width="400" src="~/Pictures/12.png">
