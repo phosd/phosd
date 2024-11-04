@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-TEST test testing
+
 Hello, im phosd and i'll be sharing cool challenges from ctfs!
