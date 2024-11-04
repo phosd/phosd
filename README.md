@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 TEST test testing
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phosd)](https://github.com/phosd/github-readme-stats)
+Hello, im phosd and i'll be sharing cool challenges from ctfs!
