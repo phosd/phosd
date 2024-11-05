@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Hello, im phosd and i'll be sharing cool challenges from ctfs! 😁</p>
+<p>Hello, im phosd and i'll be sharing cool challenges from various ctfs! 😁</p>
   <img align="left" width="400" src="http://uploads.disquscdn.com/images/b92b3b9c5f8886cf358a0e700dab6054f37bbc5868900f17160aa41677cbc9fe.gif" alt="See ya">
